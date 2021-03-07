@@ -1,0 +1,6 @@
+**/.DS_Store
+.idea
+node_modules/
+back/uploads/*
+!back/uploads/.gitkeep
+back/video.mp4
