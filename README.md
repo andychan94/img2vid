@@ -1,3 +1,12 @@
+<p align="center">
+
+![](rec.gif)
+</p>
+
+
+(NOTE: works with images of the same size dimensions, and backend handles up to 5 files - this is modifiable in
+index.js. You can test it using the images from the `files-for-testing` directory)
+
 ### Task
 
 Create a web-app using React and Node.js. User uploads a series of images via dropzone, and receives a video output
